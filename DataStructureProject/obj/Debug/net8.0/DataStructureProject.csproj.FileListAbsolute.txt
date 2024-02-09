@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\bin\Debug\net8.0\DataStructureProject.exe
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\bin\Debug\net8.0\DataStructureProject.deps.json
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\bin\Debug\net8.0\DataStructureProject.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\bin\Debug\net8.0\DataStructureProject.dll
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\bin\Debug\net8.0\DataStructureProject.pdb
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\DataStructureProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\DataStructureProject.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\DataStructureProject.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\DataStructureProject.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\DataStructureProject.sourcelink.json
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\DataStructureProject.dll
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\refint\DataStructureProject.dll
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\DataStructureProject.pdb
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\DataStructureProject.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\DataStructureProject\DataStructureProject\obj\Debug\net8.0\ref\DataStructureProject.dll
